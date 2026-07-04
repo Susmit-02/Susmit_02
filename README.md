@@ -13,9 +13,9 @@
 - 🎓 Computer Engineering graduate, currently based in Pune, India
 - 📊 Diving deep into **Data Analytics** — turning raw data into decisions
 - 🛠️ Comfortable across the analytics stack: **SQL, Python, Excel, Power BI**
-- 🌱 Currently sharpening skills in [add: e.g. advanced SQL / dashboards / statistics]
+- 🌱 Currently sharpening skills in [add: e.g. advanced SQL / data cleaning / ETL /  EDA /  visualizatons / dashboards / statistics]
 - 💬 Ask me about data cleaning, dashboards, or exploratory analysis
-- 📫 Reach me at: **YOUR-EMAIL@example.com**
+- 📫 Reach me at: Susmitchaudhari58@gmail.com**
 
 ---
 
